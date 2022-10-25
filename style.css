@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 700px;
+    border: 1px solid black;
+    
+}
+
+h1{
+    background-color: palegreen;
+    padding: 10px;
+}
+input{
+    color: green;
+    border-radius: 10%;
+    background-color: bisque;
+
+}
